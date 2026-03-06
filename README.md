@@ -242,12 +242,22 @@ El proyecto también sirvió como práctica para:
 * optimización visual en interfaces móviles
 
 ---
+## 🚀 Cómo ejecutar la app
+
+Puedes probar la app tanto en tu navegador (muy rápido para prototipar) como en un dispositivo Android físico.
+
+### 1. Ejecutar en Chrome
+Al correr el comando `flutter run`, el sistema te mostrará una lista de dispositivos disponibles. Solo debes seleccionar el número correspondiente a Chrome:
+
+```bash
+flutter run
+
+
 
 # 👨‍💻 Autor
 
 **Isaac Tordecilla Feria**
-
-Flutter Developer
+Fullstack Developer
 Colombia
 
 GitHub
@@ -256,38 +266,3 @@ GitHub
 ```
 
 ---
-
-💡 **Te recomiendo también cambiar el nombre del repo para que se vea más profesional:**
-
-En lugar de:
-
-```
-
-HiDex---Pok-mon-explorer
-
-```
-
-mejor usa:
-
-```
-
-hidex-pokemon-explorer
-
-```
-
-o incluso:
-
-```
-
-hidex-pokedex-flutter
-
-```
-
----
-
-Si quieres, también puedo ayudarte a crear **3 cosas que aumentan mucho las probabilidades de que te contraten con este repo**:
-
-1️⃣ un **GIF de la app funcionando para el README**  
-2️⃣ una **sección "Screenshots" atractiva**  
-3️⃣ optimizar el README para **reclutadores de Flutter**.
-```
